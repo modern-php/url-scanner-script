@@ -2,7 +2,7 @@
 
 ## Description
 
-A PHP script that scans a list of URLs and reports inaccessible URLs.
+A PHP script that scans a list of URLs and reports inaccessible URLs to standard out.
 
 ## Usage
 
@@ -21,6 +21,11 @@ Because this repository is not a PHP component, you should clone this repository
 to your local computer with:
 
     git clone https://github.com/modern-php/url-scanner-script.git
+
+After you clone the repository, install its Composer dependencies. From within
+this repositories directory on your local machine, run:
+
+    composer install
 
 ## Documentation
 
@@ -48,6 +53,6 @@ Open a new issue in the GitHub issue tracker here:
 
 ## How to contribute
 
-You can send a pull request to the master branch at:
+You can send a pull request to the master branch here:
 
 <https://github.com/modern-php/url-scanner-script>
