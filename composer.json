@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "4.*",
+        "league/csv": "5.*"
+    }
+}
