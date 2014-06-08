@@ -23,7 +23,7 @@ to your local computer with:
     git clone https://github.com/modern-php/url-scanner-script.git
 
 After you clone the repository, install its Composer dependencies. From within
-this repositories directory on your local machine, run:
+this repository's directory on your local machine, run:
 
     composer install
 
